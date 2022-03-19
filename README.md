@@ -36,6 +36,7 @@ If you want to train the model from scratch, you can use the following command:
 $ python train.py
 ```
 
+- If you have any implementation problems, please feel free to e-mail me! come880412@gmail.com
 
 # Reference
 [1] https://github.com/facebookresearch/denoiser
