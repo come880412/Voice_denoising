@@ -1,11 +1,14 @@
 # Voice_denoising
-Competition URL: https://aidea-web.tw/topic/8d381596-ee9d-45d5-b779-188909ccb0c8
+Competition URL: https://aidea-web.tw/topic/8d381596-ee9d-45d5-b779-188909ccb0c8 (Private 6th place)
 
 # Method
 We refer to the method of [1] to solve this problem. If you want to know more details, I recommend you see the original paper of Demucs [2]. The model is shown as follow:
 <p align="center">
 <img src="https://github.com/come880412/Voice_denoising/blob/main/image/demucs.png" width=50% height=50%>
 </p>
+
+# Evaluation metric
+The PESQ value is used to evaluate the quality of the denoised audio. The formulation of PESQ value can be found in https://github.com/ludlows/python-pesq
 
 # Getting Started
 - Clone this repo to your local
