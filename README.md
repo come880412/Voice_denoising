@@ -39,5 +39,5 @@ $ python train.py
 - If you have any implementation problems, please feel free to e-mail me! come880412@gmail.com
 
 # Reference
-[1] https://github.com/facebookresearch/denoiser
+[1] https://github.com/facebookresearch/denoiser \
 [2] Defossez, A., Synnaeve, G., & Adi, Y. (2020). Real time speech enhancement in the waveform domain. arXiv preprint arXiv:2006.12847.
