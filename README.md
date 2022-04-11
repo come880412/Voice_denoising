@@ -1,5 +1,5 @@
 # Voice_denoising
-Competition URL: https://aidea-web.tw/topic/8d381596-ee9d-45d5-b779-188909ccb0c8 (Private 6th place)
+Competition URL: https://aidea-web.tw/topic/8d381596-ee9d-45d5-b779-188909ccb0c8 (Private 6th place, Honorable Mention)
 
 # Method
 We refer to the method of [1] to solve this problem. If you want to know more details, I recommend you see the original paper of Demucs [2]. The model is shown as follow:
